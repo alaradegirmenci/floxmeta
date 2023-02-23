@@ -1,0 +1,15 @@
+{
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "created": 1677193722,
+      "lastActive": 1677193722,
+      "logMessage": [
+        "alaradegirmenci installed stable.nixpkgs-flox.cowsay stable.nixpkgs-flox.fortune"
+      ],
+      "path": "/nix/store/nvqj8ykx8s22h7qr08hlqi6rz8i9mzwf-floxShell",
+      "version": 2
+    }
+  },
+  "version": 1
+}
